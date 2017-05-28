@@ -1,0 +1,54 @@
+﻿.sectionTitle {
+    color: #A8385C;
+    font-size: 30px;
+}
+
+.videoTitle {
+    color: #A8385C;
+    font-size: 18px;
+}
+
+.videosWrapper {
+    margin-top: 75px;
+}
+
+#highlightedVideo {
+    /*background-color: blue;*/
+}
+
+#listMoreVideos {
+    /*background-color: red;*/
+}
+
+.video {
+    width:100%; /*Needs to be the same size as video itself */
+}
+
+.listItem{
+    margin: 10px;
+}
+
+.borderLightGray {
+    border: solid 1px;
+    border-color: lightgray;
+}
+
+
+#thumbnailList{
+    height:600px;
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+
+#loadMoreVideosBtn{
+    margin-left:20%;
+    margin-right:20%;
+}
+
+.previewVideosListItem {
+    width:100%;
+}
+
+a{
+    cursor: pointer;
+}
