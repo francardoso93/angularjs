@@ -6,8 +6,8 @@ This project was made for the VAGAS.COM challenge.
 Instructions:
 
 <ul>
-<li>Download the source files and open them with Visual Studio</li>
-<li>Run it!</li>
+<li>Start a web server</li>
+<li>Access 'localhost' with the right port on your browser</li>
 </ul>
 
 Source Files:
